@@ -42,9 +42,6 @@
     </div>
     <div class="card border">
     <div class="card-body table-responsive">
-    <div class="alert alert-success" role="alert">
-  A simple success alert—check it out!
-</div>
         <h5 class="card-title">Carros cadastrados</h5>
         <table id="tbCarros" class="table table-ordered table-hover ">
             <thead>
